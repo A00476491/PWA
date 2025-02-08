@@ -8,7 +8,7 @@ This is a simple **Progressive Web App (PWA)** that uses **IndexedDB** to manage
 - Work offline with **service worker** support for caching
 
 ### **App Screenshot**
-![App Screenshot](assets/screen shot.png)
+![App Screenshot](assets/screenshot.png)
 
 ## **Getting Started**
 
