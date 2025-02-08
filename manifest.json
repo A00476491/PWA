@@ -1,0 +1,25 @@
+{
+    "name": "PWA todolist",
+    "short_name": "PWA_TDL",
+    "description": "This is Max's to-do list!",
+    "start_url": "/",
+    "scope": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#EEEEEE",
+    "orientation": "portrait",
+    "dir": "ltr",
+    "lang": "en-CA",
+    "icons": [
+        {
+            "src": "/icon-96x96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "/icon-192x192.png",
+            "sizes": "196x196",
+            "type": "image/png"
+        }
+    ]
+}
